@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Allianation</h1>
 <h3 align="center">+10 años de experiencia. Desarrollador FullStack. De Buenos Aires, Argentina.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allianation&label=Profile%20views&color=0e75b6&style=flat" alt="allianation" /> </p>
 
-<br/>
 
 - 🔭 I’m currently working on **React App**
 
